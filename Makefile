@@ -1,6 +1,6 @@
 include configure.mk
 
-PREFIX=/usr
+PREFIX=/home/sn0w/bin
 LLVM_INCLUDE=/usr/include/llvm-c-3.4
 
 CCTOOLS=build/cctools-839-ld64-134.9
